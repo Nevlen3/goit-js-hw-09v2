@@ -1,5 +1,6 @@
 {
-  "name": "vanilla-app-template",
+  "name": "hm9",
+  "homepage": "https://github.com/Nevlen3/goit-js-hw-09v2",
   "private": true,
   "version": "1.0.0",
   "type": "module",
